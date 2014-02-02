@@ -1,0 +1,220 @@
+AnyBodyWorkspace = 
+  {
+    LoadedMainFile = "GaitLowerExtremity.main.any";
+    ActiveLayoutNumber = 0;
+    AssitantDialogPosition = {0, 0, 0, 0};
+    ObjectDescriptionDialogPosition = {0, 0, 0, 0};
+    COperationDocument = 
+    {
+      Frame = 
+        {
+          Layout1 = 
+            {
+              SizingStatus = Normalized;
+              NormalizedSize = {0, 0.65, 1, 0.35};
+              RightExpandedSize = {0, 0.65, 1.5, 0.35};
+              ZOrderNumber = 2;
+            };
+          Layout2 = 
+            {
+              SizingStatus = Normalized;
+              NormalizedSize = {0, 0.65, 1, 0.35};
+              RightExpandedSize = {0, 0.65, 1.5, 0.35};
+              ZOrderNumber = 0;
+            };
+          Layout3 = 
+            {
+              SizingStatus = Normalized;
+              NormalizedSize = {0, 0.65, 1, 0.35};
+              RightExpandedSize = {0, 0.65, 1.5, 0.35};
+              ZOrderNumber = 0;
+            };
+        };
+    };
+    CTreeDocument = 
+    {
+      ModelTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+          TreeExpansions = ;
+          HideDeprecated = On;
+        };
+      FileTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+          SystemDefinitionsSelected = 0;
+          TreeExpansions = 
+            {
+              BranchOwnerNames = ;
+              BranchMemberNames = ;
+              IncludeLineNums = ;
+            };
+        };
+      TabBarViewProperties = 
+        {
+          SelectedViewTabId = {2, 1, 1};
+        };
+      OperationTreeViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "Main.InverseDynamicAnalysisSequence";
+          TreeExpansions = 
+            {
+              "Main",
+              "Main.ModelSetup.OptimizeOnOff",
+              "Main.Studies"
+            };
+          HideDeprecated = On;
+        };
+      ProjectTreeViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+          TreeExpansions = ;
+          HideDeprecated = On;
+        };
+      ProjectTaskViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+        };
+      ProjectModelViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+        };
+      ProjectChartViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+        };
+      ProjectDefaultViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+        };
+      EmptyViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+        };
+      ObjectDescriptionViewData = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "Main.InverseDynamicAnalysisSequence";
+        };
+      Frame = 
+        {
+          Layout1 = 
+            {
+              SizingStatus = RightExpanded;
+              NormalizedSize = {0, 0, 0.2, 0.6770671};
+              RightExpandedSize = {0, 0, 0.3002937, 0.6770671};
+              ZOrderNumber = 1;
+            };
+          Layout2 = 
+            {
+              SizingStatus = RightExpanded;
+              NormalizedSize = {0, 0, 0.2, 0.65};
+              RightExpandedSize = {0, 0, 0.3, 0.65};
+              ZOrderNumber = 2;
+            };
+          Layout3 = 
+            {
+              SizingStatus = RightExpanded;
+              NormalizedSize = {0, 0, 0.2, 0.65};
+              RightExpandedSize = {0, 0, 0.3, 0.65};
+              ZOrderNumber = 2;
+            };
+        };
+    };
+    CScriptDocument CScriptDocument_1 = 
+    {
+      File = "GaitLowerExtremity.main.any";
+      ModelTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+          TreeExpansions = ;
+          HideDeprecated = On;
+        };
+      FileTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          SelectionName = "";
+          SystemDefinitionsSelected = 0;
+          TreeExpansions = 
+            {
+              BranchOwnerNames = ;
+              BranchMemberNames = ;
+              IncludeLineNums = ;
+            };
+        };
+      ClassTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          ClassTreeExpanded = Off;
+          ClassListExpanded = Off;
+          TreeExpansions = ;
+        };
+      ScriptViewProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 18;
+        };
+      TabBarViewProperties = 
+        {
+          SelectedViewTabId = {0, 0, 0};
+        };
+      GlobalFunctionsTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          TreeExpansions = ;
+        };
+      GlobalsTreeProperties = 
+        {
+          HScrollPos = 0;
+          VScrollPos = 0;
+          TreeExpansions = ;
+        };
+      Frame = 
+        {
+          Layout1 = 
+            {
+              SizingStatus = Normalized;
+              NormalizedSize = {0.3, 0, 0.7, 1};
+              RightExpandedSize = {0.3, 0, 1.05, 1};
+              ZOrderNumber = 0;
+            };
+          Layout2 = 
+            {
+              SizingStatus = Normalized;
+              NormalizedSize = {0.3, 0, 0.7, 1};
+              RightExpandedSize = {0.3, 0, 1.05, 1};
+              ZOrderNumber = 1;
+            };
+          Layout3 = 
+            {
+              SizingStatus = Normalized;
+              NormalizedSize = {0.3, 0, 0.7, 1};
+              RightExpandedSize = {0.3, 0, 1.05, 1};
+              ZOrderNumber = 1;
+            };
+        };
+    };
+  };
